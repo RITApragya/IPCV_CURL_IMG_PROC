@@ -1,10 +1,10 @@
-CURL: Neural Curve Layers for Global Image Enhancement
+# CURL: Neural Curve Layers for Global Image Enhancement
 
 This repository contains the official PyTorch implementation for the paper, "CURL: Neural Curve Layers for Global Image Enhancement," presented at the International Conference on Pattern Recognition (ICPR) 2020.
 
 CURL introduces a novel, end-to-end deep learning approach to adaptive photo retouching, inspired by professional curve adjustment tools (like Photoshop Curves).
 
-💡 Core Architecture: $\text{TED+CURL}$
+## Core Architecture: $\text{TED+CURL}$
 
 The project implements a two-stage pipeline for image enhancement:
 
