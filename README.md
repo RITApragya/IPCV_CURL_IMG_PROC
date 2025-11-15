@@ -18,26 +18,6 @@ Multi-Color Space Enhancement: Adjustments are learned jointly across $\text{CIE
 
 Arbitrary Resolution Support: The architecture uses Adaptive Global Pooling to ensure the model can process input images of any size.
 
-🔗 Links and Citations
+Original Code: https://github.com/sjmoran/curl-image-enhancement
 
-Resource
-
-Description
-
-Link
-
-Original Code
-
-The primary GitHub repository for the project.
-
-https://github.com/sjmoran/curl-image-enhancement
-
-ICPR 2020 Paper
-
-Official IEEE Xplore link to the publication.
-
-https://ieeexplore.ieee.org/document/9412677
-
-Recommended Usage Note
-
-Please note that the original research code is optimized for training with a batch size of 1. Using higher batch sizes may require re-engineering the model architecture to avoid artifacts, as documented in the original source files.
+Official IEEE Xplore link to the publication: https://ieeexplore.ieee.org/document/9412677
